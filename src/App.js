@@ -9,7 +9,7 @@ const API_KEY = "";
 //replace calendar id with one you want to test
 
 let calendars = [
-  { calendarId: "thedineshk24@gmail.com" }
+  { calendarId: "" }
 ];
 
 let styles = {
