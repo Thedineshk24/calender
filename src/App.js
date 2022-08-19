@@ -4,7 +4,7 @@ import Calendar from "@ericz1803/react-google-calendar";
 import { css } from "@emotion/react";
 
 //put your google calendar api key here
-const API_KEY = "AIzaSyBSq8CcCKZmpBgBspSLY3eiw1BHg8CdiiI";
+const API_KEY = "";
 
 //replace calendar id with one you want to test
 
